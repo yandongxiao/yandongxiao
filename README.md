@@ -8,5 +8,6 @@
 ### Certifications
 
 <p align=""> 
-  <img src="https://www.credly.com/badges/cd70ca20-ceaa-4e17-91ad-f2a5a491e904/public_url" alt="trophy" />
+  <img src="https://images.credly.com/size/110x110/images/28452e24-9165-415a-9a06-80dbb835f08d/image.png" alt="trophy" />
+  <img src="https://images.credly.com/size/110x110/images/6ba6b707-b2cc-4cd7-915e-0fed722885c3/image.png" alt="trophy" />
 </p>
